@@ -21,3 +21,4 @@ Si tienes alguna pregunta o consulta sobre [Nombre del Juego], puedes ponerte en
 
 - Correo electrónico: [Dirección de correo electrónico]
 - Teléfono: [Número de teléfono]
+
